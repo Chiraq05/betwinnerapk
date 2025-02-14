@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BetWinner - Téléchargement</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <img src="logo.png" alt="BetWinner Logo" class="logo">
+        <h1>Téléchargez BetWinner</h1>
+        <p>Profitez de la meilleure expérience de pari avec BetWinner !</p>
+        
+        <a href="https://bwredir.com/2gxH?p=%2Fmobile%2F" class="download-btn">📥 Télécharger BetWinner</a>
+        
+        <div class="promo">
+            <p>Utilisez le code promo :</p>
+            <span class="code">CHIRAQ12</span>
+        </div>
+    </div>
+</body>
+</html>
